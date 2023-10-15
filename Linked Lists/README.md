@@ -1,0 +1,1 @@
+All of my solutons realted with Linked lists.
